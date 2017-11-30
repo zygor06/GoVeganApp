@@ -1,3 +1,146 @@
 <resources>
     <string name="app_name">GoVeganApp</string>
+    <string name="ingredientes_biscoitinhos">
+        1 xícara (de chá) de banana nanica amassada (cerca de 2 bananas grandes)\n
+        1 xícara (de chá) de aveia em flocos finos\n
+        1 colher (de sopa) de óleo vegetal (usei o de coco)\n
+        1 colher (de chá) de fermento químico em pó\n
+        Canela em pó a gosto (opcional)\n
+        1/4 de xícara (de chá) de uvas passas (opcional)\n
+        1/4 de xícara (de chá) de castanha do Para picadas (opcional)\n</string>
+    <string name="modo_preparo_biscoitinhos">
+        Pré-aqueça o forno a 180ºC. Em uma vasilha coloque a banana amassada, a aveia em flocos finos, o óleo vegetal, o fermento, a canela e misture. Se gostar adicione as uvas passas e as castanhas picadas. Misture bem, até ficar uniforme.\n
+Coloque esta massa com o auxílio de duas colheres sobre uma assadeira forrada com papel manteiga e leve para assar por 20 minutos ou até ficarem bem sequinhos. Remova com cuidado do papel. Está pronto!
+    </string>
+
+    <string name="ingredientes_chips">
+        1 batata-doce grande orgânica\n
+        Um fio de azeite, e mais um pouco para untar\n
+        Sal e pimenta-do-reino branca moída na hora a gosto\n
+        Tomilho fresco picado a gosto\n
+    </string>
+    <string name="modo_preparo_chips">
+        Preaqueça o forno a 180 °C. Lave bem a batata-doce usando uma escovinha exclusiva para uso culinário. Corte-a em fatias finas com ajuda de um cortador de legumes ou mandolina. Distribua-as numa assadeira forrada com papel-alumínio levemente untado com azeite. Regue a batata com o azeite e polvilhe com os temperos e o tomilho. Leve ao forno e asse por 25 minutos ou até dourar, virando na metade do tempo.
+    </string>
+
+    <string name="ingredientes_sorvete">
+        ½ xícara de açúcar demerara\n
+        10 paçoquinhas (200 g)\n
+        2 xícaras de leite de coco (p. 12)\n
+        1 xícara de leite de amendoim\n
+        amendoim ligeiramente torrado a gosto\n
+    </string>
+    <string name="modo_preparo_sorvete">
+        No liquidificador, bata o açúcar, a paçoquinha, o leite de coco e o leite de amendoim até ficar homogêneo. Transfira para um recipiente de inox com tampa e leve ao freezer por 4 horas. Em seguida, bata novamente no liquidificador e leve ao freezer outra vez até firmar. Retire da geladeira cinco minutos antes de servir e sirva-o decorado com o amendoim.
+    </string>
+
+    <string name="ingredientes_pate">
+        250 g de grão-de-bico cru\n
+        1 folha de louro\n
+        300 g de pão sírio pequeno\n
+        ½ xícara de azeite\n
+        1/3 de xícara de água do cozimento do grão-de-bico\n
+        3 colheres (sopa) de suco delimão-siciliano\n
+        2 dentes de alho\n
+        1 cebola pequena picada\n
+        uma pitada de cominho em pó\n
+        uma pitada de sal\n
+        Pinoli e sementes de cominho a gosto\n
+    </string>
+    <string name="modo_preparo_pate">
+        Deixe o grão-de-bico de molho em água suficiente para cobrir os grãos por uma noite. No dia do preparo, escorra a água e lave os grãos. Transfira para a panela de pressão com água suficiente para cobrir o grão-de-bico, adicione o louro, tampe a panela e cozinhe por 20 minutos após o início da pressão. Espere sair a pressão. Em seguida, preaqueça o forno a 180 °C. Corte os pães em quatro pedaços, transfira-os para uma forma coberta com papel-alumínio e leve ao forno por 10 minutos ou até dourarem ligeiramente. Retire e reserve. Quando a pressão sair, abra a panela e escorra os grãos, reservando a água para usar depois também em sopas, pastas, caldos e refogados. Transfira os grãos para o liquidificador e bata com os demais ingredientes (reserve um pouco de pignoli e também das sementes de cominho). Ponha em uma cumbuca e regue com um fio de azeite. Decore com o pignoli e as sementes de cominho reservadas. Mantenha na geladeira coberto com filme de PVC até servir. Sirva com as torradinhas de pão sírio.
+    </string>
+
+    <string name="ingredientes_salpicao">
+        1 xícara (de chá) de cenoura ralada\n
+        1/2 xícara (de chá) de maçã verde picada\n
+        1/2 xícara (de chá) de milho em conserva\n
+        1/2 xícara (de chá) de salsão bem picado\n
+        1/2 xícara (de chá) de azeitonas picadas\n
+        1 xícara (de chá) de cubinhos de batata cozidos\n
+        1 xícara (de chá) de ervilha\n
+        1/2 xícara (de chá) de uva passa\n
+        1 xícara (de chá) de carne de jaca desfiada (opcional – veja como preparar aqui)\n
+        1/2 xícara (de chá) de maionese vegana (usei esta de alho aqui)\n
+        1 colher (de sopa) de mostarda\n
+        Suco de meio limão\n
+        1/2 xícara (de chá) de salsinha e cebolinha picadas\n
+        Sal e pimenta moída a gosto\n
+        Batata palha (opcional)\n
+    </string>
+    <string name="modo_preparo_salpicao">
+        Lave e pique os ingredientes conforme a descrição. Também cozinhe os cubinhos de batata em água quente até atravessar uma faca com facilidade. Para preparar o salsão, retirei a casca com uma faca e depois piquei bem.\n
+        Em uma vasilha grande, coloque a cenoura ralada, a maçã verde picada, o milho, o salsão, a azeitona picada, os cubinhos de batata cozidos, a ervilha, a uva passa e se quiser acrescente a carne de jaca desfiada.\n
+        Adicione a maionese vegana de sua preferência, a mostarda, o suco de limão, a salsinha e cebolinha picadas e tempere com sal e pimenta moída a gosto. Misture bem, cubra com um plástico e leve a geladeira por pelo menos duas horas antes de servir.\n
+        Coloque em uma travessa bonita e se quiser salpique batata palha por cima. Está pronto!\n
+    </string>
+
+    <string name="ingredientes_coco">
+        1 coco seco (2 xícaras e meia de coco picado ou cerca de 250g)\n
+        3 xícaras (de chá) de água quente (cerca de 720ml ou mais se preferir mais fino)\n
+    </string>
+    <string name="modo_preparo_coco">
+        Pré-aqueça o forno a 240ºC, retire toda a água de um coco seco, coloque ele em uma assadeira e leve para assar por 15 minutos ou até ficar bem rachado. É importante tirar toda a água para não se queimar depois.\n
+        Espere ficar morno e dê leves marteladinhas para ajudar a quebrar o restante que faltou. Separe a casca da polpa com o auxilio de uma faca sem ponta. Pique esta polpa em pedaços menores.\n
+        Em um liquidificador, coloque esta polpa de coco, adicione a água quente e bata por 3 minutos. Se o seu liquidificador for pequeno, divida em duas partes.\n
+        Espere ficar morno para não se queimar e em seguida coe com o auxílio de um pano limpo ou peneira bem fina.\n
+        Está pronto!
+    </string>
+
+    <string name="ingredientes_pao">
+        2 xícaras (de chá) bem cheias de mandioquinha (batata baroa) picada (cerca de 300g)\n
+        1 e 1/2 xícara (de chá) de polvilho doce\n
+        1/2 xícara (de chá) de polvilho azedo\n
+        1 colher (de chá) de fermento químico em pó\n
+        1/4 de xícara (de chá) de água\n
+        5 colheres (de sopa) de óleo\n
+        1 colher (de chá) de sal ou mais se preferir\n
+    </string>
+    <string name="modo_preparo_pao">
+        Antes de tudo, cozinhe a mandioquinha. Em uma panela com água fervente, coloque a mandioquinha picada e deixe cozinhar até ficar macia (espete um garfo ou faca e ele deve atravessar com facilidade). Escorra bem e em seguida amasse bem com um garfo, até obter um purê uniforme. Reserve.\n
+        Pré-aqueça o forno a 210ºC. Em uma vasilha, coloque o polvilho doce, o polvilho azedo, o fermento químico em pó e misture.\n
+        Coloque a água, o óleo e o sal em uma panela pequena, misture e deixe ferver. Quando estiver borbulhando, desligue e jogue sobre a mistura dos polvilhos. Misture bem até virar uma farofinha. Adicione o purê e misture novamente, até obter uma massa uniforme. Modele bolinhas de tamanho médio, cerca de 4cm de diâmetro, e coloque em uma assadeira antiaderente. Leve para assar por cerca de 50 minutos ou até os pãezinhos ficarem rachados e completamente assados. Está pronto!
+    </string>
+
+    <string name="ingredientes_burguer">
+        500 gramas de Grão de Bico\n
+        1/2 Cebola Média Picada\n
+        1 dente de Alho picado\n
+        Suco de 1 limão\n
+        Cheiro-verde a gosto\n
+        Sal a gosto\n
+        Tempero Sírio a Gosto\n
+    </string>
+    <string name="modo_preparo_burguer">
+        Primeiramente, o grão de bico deve ficar de molho em água limpa por exatamente 8 horas. Isso irá garantir que o hambúrguer obtenha o ponto certo. Deixar o grão de molho por menos, ou mais tempo, prejudicará o bom resultado da receita. Feito isso adicione todos os ingredientes no processador e processe bem até obter uma ponto consistente, como uma pasta.  Você pode utilizar liquidificador caso não tenha um processador, e abrir a tampa de tempos em tempos para ajudar com a colher.\n
+        Utilize uma colher para medir a quantidade de massa para formar o seu hamburguer e com as mãos modele eles. Essa receita rende até sete hamburgueres, dependendo do tamanho que você os fizer. Embrulhe cada um dos hamburgueres em um plástico e leve para o congelador por no mínimo seis horas. Depois de congelados você pode fritá-los por imersão ou no azeite raso.\n
+        Montagem: Escolha o seu pão preferido, rúcula, rodelas de tomate fresco e cebola roxa para adicionar ao sanduíche. Algo que é super gostoso e faz toda a diferença na receita é a babaganuche que você pode passar no pão antes de montar o hamburguer. Essa pasta, assim como o hamburguer de falafel, são tipicamente árabes, e juntas traduzem um sabor sem igual\n
+    </string>
+
+    <string name="ingredientes_bolo">
+        2 Ovos\n
+        1 xícara de coco ralado (ou resíduos de leite de coco)\n
+        1/2 xícara de açúcar mascavo orgânico (ou aquele que você preferir)\n
+        1/2 xícara de cacau em pó 100%\n
+        1 banana grande ou 2 médias\n
+        1 colher de sobremesa de fermento em pó\n
+    </string>
+    <string name="modo_preparo_bolo">
+        Misture as bananas com os ovos em um liquidificador, e em um bowl misture o restante dos ingredientes secos. Adicione a mistura líquida e mexa bem até obter uma massa fina e homogênea. Por último adicione o fermento e misture um pouco até ele se envolver com a massa. Leve para uma assadeira (utilizei uma forma de silicone de 15cm x 5cm) com forno pré-aquecido a 200 graus e deixe o bolo lá por 35 minutos. Retire e decore. Você pode adicionar rodelas de banana em cima da massa antes mesmo de colocá-lo no forno, ou fazer uma cobertura especial após assar.
+    </string>
+
+    <string name="Membros">
+        Gabriel Borges\n
+        Marcela Santos\n
+        Maria Antônia\n
+        Mariana Cordeiro\n
+        Mateus Sanches
+    </string>
+
+    <string name="ideologia">
+        \nVeganismo significa os princípios pelos quais o ser humano viva sem explorar os animais. É a prática e busca ao fim do uso de animais para alimentação, apropriação, trabalho, caça, vivissecção, confinamento e todos os outros usos que envolvam exploração da vida animal. Os veganos procuram abolir qualquer prática que explore animais, zelando pela preservação da liberdade e integridade animal. Também boicotam qualquer produto de origem animal (seja alimentar ou não), além de produtos que tenham sido testados em animais ou que incluam qualquer forma possível de exploração animal nos seus ingredientes. Ou seja, não utilizam produtos de beleza, de higiene pessoal, de limpeza, etc. que não estejam isentos de crueldade.\n
+        Veganos referem-se às outras espécies como "animais não humanos" ou "seres sencientes". Para um vegano, é incorrecto distinguir os restantes animais usando o termo "animais irracionais", uma vez que se baseiam na capacidade de consciência semelhante à consciência humana que se encontra declarada como verificada nos animais não humanos, e reconhecida na "Declaração de Cambridge sobre a Consciência" de 2 de Julho de 2012, emitida na conferência "Consciência nos animais humanos e não humanos", na Cambridge College, na Universidade de Cambridge, em Cambridge, no Reino Unido.\n
+        É muito importante diferenciar a ideologia vegana da dieta vegetariana. Veganismo não é dieta. É um conjunto de práticas focadas nos Direitos dos Animais que, por consequência, adota uma alimentação estritamente vegetariana. Entende-se que os animais têm o direito de não serem usados como propriedade, e que o veganismo é a base ética para levar a sério esse direito, pelo mínimo de respeito a eles.\n\n\n
+    </string>
+
 </resources>

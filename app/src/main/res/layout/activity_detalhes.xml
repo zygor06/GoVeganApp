@@ -7,9 +7,42 @@
     android:background="@color/dark_bg"
     tools:context="app.govegan.com.br.goveganapp.activity.DetalhesActivity">
 
+    <ScrollView
+        android:id="@+id/scrollView3"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/texto_detalhes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="12dp"
+                android:fontFamily="@font/handwritten"
+                android:text="@string/ideologia"
+                android:textColor="@color/brown"
+                android:textSize="26sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/toolbar" />
+        </LinearLayout>
+    </ScrollView>
+
     <include
         android:id="@+id/toolbar"
-        layout="@layout/toolbar">
-    </include>
+        layout="@layout/toolbar"/>
 
 </android.support.constraint.ConstraintLayout>

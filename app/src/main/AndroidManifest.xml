@@ -20,7 +20,16 @@
         </activity>
         <activity android:name=".activity.MembrosActivity" />
         <activity android:name=".activity.ReceitasActivity" />
-        <activity android:name=".activity.DetalhesActivity"></activity>
+        <activity android:name=".activity.DetalhesActivity" />
+        <activity android:name=".activity.receitas.ChipBatataDoceActivity" />
+        <activity android:name=".activity.receitas.SorvetePacoquinhaActivity" />
+        <activity android:name=".activity.receitas.PateGraoBicoActivity" />
+        <activity android:name=".activity.receitas.SalpicaoVeganoActivity" />
+        <activity android:name=".activity.receitas.LeiteCocoActivity" />
+        <activity android:name=".activity.receitas.PaoQueijoActivity" />
+        <activity android:name=".activity.receitas.BiscoitinhosAveiaBananaActivity" />
+        <activity android:name=".activity.receitas.HamburguerActivity" />
+        <activity android:name=".activity.receitas.BoloChocolateActivity"></activity>
     </application>
 
 </manifest>

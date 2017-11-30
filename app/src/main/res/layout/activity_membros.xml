@@ -12,4 +12,42 @@
         layout="@layout/toolbar">
     </include>
 
+    <TextView
+        android:id="@+id/text_turma"
+        android:layout_width="255dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="56dp"
+        android:fontFamily="@font/handwritten"
+        android:gravity="center"
+        android:text="Turma 3º D"
+        android:textColor="@color/brown"
+        android:textSize="50sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar" />
+
+    <TextView
+        android:id="@+id/text_membros"
+        android:layout_width="255dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        android:fontFamily="@font/handwritten"
+        android:gravity="center"
+        android:text="@string/Membros"
+        android:textColor="@color/brown"
+        android:textSize="35sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_turma"
+        app:layout_constraintVertical_bias="0.083" />
+
+
+
 </android.support.constraint.ConstraintLayout>

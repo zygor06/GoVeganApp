@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_bg"
+    tools:context="app.govegan.com.br.goveganapp.activity.receitas.SalpicaoVeganoActivity">
+
+    <ImageView
+        android:id="@+id/img_salpicao"
+        android:layout_width="0dp"
+        android:layout_height="210dp"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/bg8" />
+
+
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img_salpicao">
+
+        <android.support.constraint.ConstraintLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent">
+
+            <TextView
+                android:id="@+id/ingredientes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="32dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                android:text="Ingredientes"
+                android:fontFamily="@font/handwritten"
+                android:textColor="@color/green"
+                android:textSize="28sp"/>
+
+            <TextView
+                android:id="@+id/modo_preparo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="24dp"
+                android:fontFamily="@font/handwritten"
+                android:text="Modo de Preparo"
+                android:textColor="@color/green"
+                android:textSize="28sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/ingredientes_detalhes" />
+
+            <TextView
+                android:id="@+id/ingredientes_detalhes"
+                android:layout_width="360dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/handwritten"
+                android:text="@string/ingredientes_salpicao"
+                android:textSize="24sp"
+                android:textColor="@color/brown"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/ingredientes" />
+
+            <TextView
+                android:id="@+id/modo_preparo_detalhes"
+                android:layout_width="360dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="40dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="24dp"
+                android:fontFamily="@font/handwritten"
+                android:text="@string/modo_preparo_salpicao"
+                android:textSize="24sp"
+                android:textColor="@color/brown"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/modo_preparo" />
+
+        </android.support.constraint.ConstraintLayout>
+
+    </ScrollView>
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar"/>
+
+</android.support.constraint.ConstraintLayout>
